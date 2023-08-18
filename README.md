@@ -1,6 +1,6 @@
 # ECASA Project
 
-The ECASA business API allows the management of sections in your warehouse as well as the products that they contain.
+The ECASA API allows the management of sections as well as the products corresponding to these sections in his warehouse
 
 ## Prerequisites
 Java 8 or higher installed on the system and Apache Maven to handle the libraries.
